@@ -19,7 +19,7 @@ export default function MemeCoinPage() {
   }, [contractAddress])
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-4">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-red-50 to-red-200 p-4">
       <Card className="w-full max-w-md">
         <Image
           src="/images/zozo.png"
