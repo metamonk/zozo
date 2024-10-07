@@ -31,7 +31,7 @@ export default function MemeCoinPage() {
         />
         <CardHeader>
           <CardTitle className="text-3xl font-bold text-center">🐱 $ZOZO 🐱</CardTitle>
-          <CardDescription className="text-center">Black Cat Zoning Out, also known as Black Cat Zoned Out or Staring Black Cat, refers to a video of a black cat staring blankly at a tan-colored cat which meme creators associated with "zoning out," pairing the video with captions related to losing focus or dissociating. The meme template trended mostly on TikTok in 2023</CardDescription>
+          <CardDescription className="text-center">Black Cat Zoning Out, also known as Black Cat Zoned Out or Staring Black Cat, refers to a video of a black cat staring blankly at a tan-colored cat which meme creators associated with &quot;zoning out,&quot; pairing the video with captions related to losing focus or dissociating. The meme template trended mostly on TikTok in 2023</CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
           <div className="flex items-center justify-between p-2 bg-muted rounded-md">
